@@ -1,7 +1,7 @@
 {
-  "test-widget": {
+  "releases": {
     "scripts": [
-      "test-widget/main-VKNN742R.js"
+      "releases/20251017-204012/test-widget/main.js"
     ],
     "styles": []
   }
